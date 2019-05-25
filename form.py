@@ -1,7 +1,7 @@
 star = True
 while star == True:
     print('''
-                  STUDENT REGISTRATION FORM
+                  REGISTRATION FORM
     ''')
     print('''
                  Are you already registered??? 
