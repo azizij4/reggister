@@ -4,7 +4,7 @@ while star == True:
                   STUDENT REGISTRATION FORM FIRST YEAR
     ''')
     print('''
-                 Are you already registered??? 
+                 Are you already registered in your collage??? 
 
                    YES         or        No                  
 
